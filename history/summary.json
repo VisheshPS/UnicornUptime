@@ -1,39 +1,43 @@
 [
   {
     "name": "Unicorn Bot",
-    "url": "https://UnicornMain.visheshps.repl.co",
-    "icon": "https://favicons.githubusercontent.com/unicornmain.visheshps.repl.co",
+    "url": "$https://UnicornMain.visheshps.repl.co",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "unicorn-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 161,
     "timeDay": 161,
     "timeWeek": 161,
     "timeMonth": 161,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "UnicornMusic",
-    "url": "https://Discord-MusicBot.visheshps.repl.co",
-    "icon": "https://favicons.githubusercontent.com/discord-musicbot.visheshps.repl.co",
+    "url": "$https://Discord-MusicBot.visheshps.repl.co",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "unicorn-music",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 147,
     "timeDay": 147,
     "timeWeek": 147,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "Personal Website",
@@ -41,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "personal-website",
     "status": "down",
-    "uptime": "8.55%",
-    "uptimeDay": "8.55%",
-    "uptimeWeek": "8.55%",
-    "uptimeMonth": "8.55%",
-    "uptimeYear": "8.55%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-05": 0
+      "2021-07-05": 28
     }
   },
   {
@@ -61,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "unicorn-bot-dashboard",
     "status": "down",
-    "uptime": "10.66%",
-    "uptimeDay": "10.66%",
-    "uptimeWeek": "10.66%",
-    "uptimeMonth": "10.66%",
-    "uptimeYear": "10.66%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-05": 0
+      "2021-07-05": 28
     }
   }
 ]
