@@ -4,9 +4,9 @@ repo: UnicornUptime # The name of this repository
 
 sites:
   - name: Unicorn Bot
-    url: https://UnicornMain.visheshps.repl.co
+    url: $https://UnicornMain.visheshps.repl.co
   - name: UnicornMusic
-    url: https://Discord-MusicBot.visheshps.repl.co
+    url: $https://Discord-MusicBot.visheshps.repl.co
   - name: Personal Website
     url: Work In Progress...
   - name: Unicorn Bot Dashboard
